@@ -1,7 +1,1 @@
 opencv-python
-# Choose ONE deep learning backend. Default here is PyTorch; install matching wheels for your OS/CPU/GPU.
-torch
-torchvision
-# If you prefer TensorFlow instead of PyTorch, you can install it and adapt model.py accordingly:
-# tensorflow
-
